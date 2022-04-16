@@ -13,8 +13,6 @@ education: ["Rissho University" "School of Psychology"]
 
 job: Student (4th)
 
-
-
 ```
 
 
